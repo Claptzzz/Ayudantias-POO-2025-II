@@ -15,3 +15,8 @@
 Mejore el codigo anterior permitiendo que el usuario ingrese el peso en kg de un dragon cualquiera y permita calcular lo que debe comer a diario.
 
 <h2>Ejercicio 2</h2>
+
+<p>Un ayudante del ramo de POO en la UCN esta cansado de calcular promedios a mano de los alumnos, por lo cuál le pide a ellos mismos que hagan un codigo que permita calcular N promedios ingresando una cantidad X de notas </p>
+
+***Acalaracion***
+* Debe usar ciclos
