@@ -1,0 +1,6 @@
+5
+Ratalos;EspadaDoble
+Nargacuga;Arco
+Nergigante;Cornamusa
+Mizutsune;EspadaLarga
+Teostra;Lanzapistola

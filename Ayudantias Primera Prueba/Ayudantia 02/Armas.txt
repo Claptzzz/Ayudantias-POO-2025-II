@@ -1,0 +1,12 @@
+11
+Remolino Fulgúreo;EspadaDoble
+Hoja del Espíritu Dragón;EspadaLarga
+Abanicos del Lobo;EspadaDoble
+Cuerno de Nargacuga;Cornamusa
+Gunlance Brachydios;Lanzapistola
+Cazador Dragón;Arco
+Garras de Rathalos;EspadaDoble
+Arco de Legiana;Arco
+Sinfonía del Dragón;Cornamusa
+Gravepiercer;Lanzapistola
+Camellia Reaper;EspadaLarga
