@@ -6,6 +6,8 @@
 * Comprender la manipulación de Objetos.
 * Implementar Vectores.
 
+<img align="right" width=260px alt="Unicorn" src="https://media.tenor.com/CI7msUZXbooAAAAj/computer-pressing.gif" />
+
 ## Ejercicio 1
 
 Catalina, Francisco y Martin son grandes amigos los cuales disfrutan mucho de programar juntos, pero tambien suelen jugar "Risk of Rain 2" en su tiempo libre, el cual es un juego donde existen diferentes personajes y tanto Catalina como Francisco y Martin se especializan en un personaje. Por lo cual se te pide generar un codigo capaz de leer un txt (Personajes.txt) que contiene el siguiente formato:
