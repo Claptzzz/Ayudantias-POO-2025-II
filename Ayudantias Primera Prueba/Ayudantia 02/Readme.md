@@ -4,6 +4,7 @@
 
 * Repasar Clases y Objetos.
 * Comprender la manipulación de Objetos.
+* Implementar Vectores.
 
 ## Ejercicio 1
 
