@@ -1,4 +1,4 @@
-<h1>Primera Ayudantia</h1>
+<h1>Primera Ayudantía</h1>
 
 ***Objetivos***
 
