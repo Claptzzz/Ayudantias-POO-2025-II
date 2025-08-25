@@ -123,8 +123,8 @@ Muestra la matriz de confusión calculada previamente.
 ---
 
 ## Fechas
-- **Inicio:** Lunes 25 de septiembre.  
-- **Entrega:** Viernes 12 de octubre.  
+- **Inicio:** Lunes 25 de agosto.  
+- **Entrega:** Viernes 12 de septiembre.  
 
 ---
 
