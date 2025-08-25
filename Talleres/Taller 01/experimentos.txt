@@ -1,0 +1,4 @@
+Exp1;Modelo A (balanceado, rendimiento medio-alto)
+Exp2;Modelo A (balanceado, rendimiento alto)
+Exp3;Modelo B (clase negativa mayoritaria)
+Exp4;Modelo C (clase positiva mayoritaria, alta recall baja precision)
