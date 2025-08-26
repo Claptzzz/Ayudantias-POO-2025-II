@@ -1,0 +1,6 @@
+Juan Perez,1500.0,ahorro,0.02
+Maria Soto,3000.0,corriente,500.0
+Empresa XYZ,10000.0,empresarial,76.345.987-K
+Carlos Ruiz,500.0,ahorro,0.015
+Ana Torres,4500.0,corriente,1000.0
+Transporte ABC,20000.0,empresarial,89.123.456-1
