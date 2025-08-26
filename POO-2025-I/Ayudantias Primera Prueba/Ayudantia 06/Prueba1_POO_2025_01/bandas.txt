@@ -1,0 +1,8 @@
+1,Iron Maiden,1975
+2,Los Prisioneros,1982
+3,Sonata Arctica,1979
+4,Queen,1970
+5,Vikings 5,2005
+6,Congreso,1971
+7,Miles Davis,1944
+8,Oasis,1991

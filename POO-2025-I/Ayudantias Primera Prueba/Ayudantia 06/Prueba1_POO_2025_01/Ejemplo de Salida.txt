@@ -1,0 +1,228 @@
+Menú de opciones:
+1. Composición de estilos de las bandas
+2. Composición de álbumes de las playlists
+3. Mostrar álbumes por década
+4. Mostrar el rating de todas las bandas
+-1. Salir
+Ingrese una opción:
+1
+
+Iron Maiden
+Composición de estilos:
+Heavy Metal: 50.0%
+Progressive Metal: 33.33%
+Hard Rock: 16.67%
+
+Los Prisioneros
+Composición de estilos:
+New Wave: 8.33%
+Post-Punk: 8.33%
+Synthpop: 16.67%
+Rock Latino: 25.0%
+Pop Rock: 25.0%
+Rock Alternativo: 16.67%
+
+Sonata Arctica
+Composición de estilos:
+Power Metal: 33.33%
+Melodic Power Metal: 16.67%
+Speed Metal: 8.33%
+Melodic Metal: 16.67%
+Melodic Ballad: 8.33%
+Symphonic Power Metal: 8.33%
+Neoclassical Power Metal: 8.33%
+
+Queen
+Composición de estilos:
+Progressive Rock: 16.67%
+Soft Rock: 25.0%
+Pop Rock: 25.0%
+Funk Rock: 8.33%
+Rockabilly: 8.33%
+Hard Rock: 8.33%
+Arena Rock: 8.33%
+
+Vikings 5
+Composición de estilos:
+Cumbia Romántica: 44.44%
+Cumbia Tropical: 33.33%
+Cumbia Sonora: 22.22%
+
+Congreso
+Composición de estilos:
+Cumbia Romántica: 28.57%
+Cumbia Tropical: 14.29%
+Rock Progresivo: 28.57%
+Fusión Latinoamericana: 14.29%
+Folk Progresivo: 14.29%
+
+Miles Davis
+Composición de estilos:
+Modal Jazz: 80.0%
+Blues Jazz: 20.0%
+
+Oasis
+No hay canciones en la banda.
+
+Menú de opciones:
+1. Composición de estilos de las bandas
+2. Composición de álbumes de las playlists
+3. Mostrar álbumes por década
+4. Mostrar el rating de todas las bandas
+-1. Salir
+Ingrese una opción:
+2
+
+Viaje Espacial
+Composición de álbumes:
+The Number of the Beast (Iron Maiden): 33.33%
+Powerslave (Iron Maiden): 16.67%
+Seventh Son of a Seventh Son (Iron Maiden): 16.67%
+La Voz de los '80 (Los Prisioneros): 16.67%
+Pateando Piedras (Los Prisioneros): 16.67%
+
+Ducha Matutina
+Composición de álbumes:
+The Number of the Beast (Iron Maiden): 20.0%
+Powerslave (Iron Maiden): 20.0%
+Seventh Son of a Seventh Son (Iron Maiden): 20.0%
+La Voz de los '80 (Los Prisioneros): 20.0%
+Corazones (Los Prisioneros): 20.0%
+
+Dormir Tranquilo
+Composición de álbumes:
+Pateando Piedras (Los Prisioneros): 16.67%
+Corazones (Los Prisioneros): 33.33%
+Silence (Sonata Arctica): 16.67%
+Winterheart's Guild (Sonata Arctica): 16.67%
+The Game (Queen): 16.67%
+
+Comer y Bailar
+Composición de álbumes:
+La Voz de los '80 (Los Prisioneros): 28.57%
+Pateando Piedras (Los Prisioneros): 28.57%
+La Fiesta de los Vikings 5 (Vikings 5): 28.57%
+Siempre Vikings 5 (Vikings 5): 14.29%
+
+Tarde de Relax
+Composición de álbumes:
+Ecliptica (Sonata Arctica): 50.0%
+Silence (Sonata Arctica): 16.67%
+Winterheart's Guild (Sonata Arctica): 33.33%
+
+Fin de Semana Chill
+Composición de álbumes:
+Powerslave (Iron Maiden): 14.29%
+Seventh Son of a Seventh Son (Iron Maiden): 14.29%
+La Voz de los '80 (Los Prisioneros): 14.29%
+Pateando Piedras (Los Prisioneros): 14.29%
+Corazones (Los Prisioneros): 14.29%
+Silence (Sonata Arctica): 14.29%
+The Game (Queen): 14.29%
+
+Estudio Creativo
+Composición de álbumes:
+A Night at the Opera (Queen): 40.0%
+The Game (Queen): 40.0%
+Innuendo (Queen): 20.0%
+
+Sábado Lento
+Composición de álbumes:
+Seventh Son of a Seventh Son (Iron Maiden): 25.0%
+Pateando Piedras (Los Prisioneros): 50.0%
+The Game (Queen): 25.0%
+
+Junta con amigos
+Composición de álbumes:
+La Voz de los '80 (Los Prisioneros): 40.0%
+Corazones (Los Prisioneros): 40.0%
+La Fiesta de los Vikings 5 (Vikings 5): 20.0%
+
+Noche de pelis
+Composición de álbumes:
+Seventh Son of a Seventh Son (Iron Maiden): 16.67%
+La Voz de los '80 (Los Prisioneros): 16.67%
+Corazones (Los Prisioneros): 16.67%
+Ecliptica (Sonata Arctica): 16.67%
+Winterheart's Guild (Sonata Arctica): 16.67%
+The Game (Queen): 16.67%
+
+Productividad
+Composición de álbumes:
+Seventh Son of a Seventh Son (Iron Maiden): 33.33%
+Pateando Piedras (Los Prisioneros): 33.33%
+The Game (Queen): 16.67%
+Innuendo (Queen): 16.67%
+
+Fiesta Sorpresa
+Composición de álbumes:
+Grandes Éxitos de los Vikings 5 (Congreso): 14.29%
+La Fiesta de los Vikings 5 (Vikings 5): 28.57%
+Siempre Vikings 5 (Vikings 5): 42.86%
+Pájaros de Arcilla (Congreso): 14.29%
+
+
+Menú de opciones:
+1. Composición de estilos de las bandas
+2. Composición de álbumes de las playlists
+3. Mostrar álbumes por década
+4. Mostrar el rating de todas las bandas
+-1. Salir
+Ingrese una opción:
+3
+
+1950 - 1959:
+- Kind of Blue (1959) - Miles Davis
+1960 - 1969:
+1970 - 1979:
+- A Night at the Opera (1975) - Queen
+1980 - 1989:
+- The Number of the Beast (1982) - Iron Maiden
+- Powerslave (1984) - Iron Maiden
+- Seventh Son of a Seventh Son (1988) - Iron Maiden
+- La Voz de los '80 (1984) - Los Prisioneros
+- Pateando Piedras (1986) - Los Prisioneros
+- The Game (1980) - Queen
+- Pájaros de Arcilla (1984) - Congreso
+1990 - 1999:
+- Corazones (1990) - Los Prisioneros
+- Ecliptica (1999) - Sonata Arctica
+- Innuendo (1991) - Queen
+2000 - 2009:
+- Silence (2001) - Sonata Arctica
+- Winterheart's Guild (2003) - Sonata Arctica
+- Grandes Éxitos de los Vikings 5 (2005) - Congreso
+2010 - 2019:
+- La Fiesta de los Vikings 5 (2010) - Vikings 5
+- Siempre Vikings 5 (2018) - Vikings 5
+2020 - 2029:
+
+Menú de opciones:
+1. Composición de estilos de las bandas
+2. Composición de álbumes de las playlists
+3. Mostrar álbumes por década
+4. Mostrar el rating de todas las bandas
+-1. Salir
+Ingrese una opción:
+4
+
+Rating de bandas
+-Iron Maiden: 4.6666665
+-Los Prisioneros: 4.5833335
+-Sonata Arctica: 4.6666665
+-Queen: 4.75
+-Vikings 5: 4.6666665
+-Congreso: 4.571429
+-Miles Davis: 5.0
+-Oasis: 0.0
+
+Menú de opciones:
+1. Composición de estilos de las bandas
+2. Composición de álbumes de las playlists
+3. Mostrar álbumes por década
+4. Mostrar el rating de todas las bandas
+-1. Salir
+Ingrese una opción:
+-1
+
+Saliendo del programa...

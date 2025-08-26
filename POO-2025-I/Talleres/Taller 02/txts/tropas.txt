@@ -1,0 +1,25 @@
+1,Infantería,Tierra,1500,3000,Estados Unidos,OTAN
+2,Artillería,Tierra,200,5000,Rusia,BRICS
+3,Caballería,Tierra,100,1200,India,BRICS
+4,Fuerzas Especiales,Tierra,50,5000, Reino Unido,OTAN
+5,Aviación,Aéreo,75,15000,China,BRICS
+6,Marines,Océano,100,6000,Francia,OTAN
+7,Defensa Aérea,Tierra,120,4800,Brasil,BRICS
+8,Infantería Mecanizada,Tierra,250,8000,Alemania,OTAN
+9,Blindados,Tierra,150,10000, Sudáfrica,BRICS
+10,Tropas de Montaña,Tierra,80,1600,Italia,OTAN
+11,Infantería ligera,Tierra,2000,4000,Estados Unidos,OTAN
+12,Cazas,Aéreo,100,20000,Estados Unidos,OTAN
+13,Portaavione,Océanos,2,50000,Estados Unidos,OTAN
+14,Tanques principales de batalla,Tierra,300,15000,Rusia,BRICS
+15,Artillería antiaérea,Tierra,150,7500,Rusia,BRICS
+16,Tropas cibernéticas,Tierra,80,10000,Rusia,BRICS
+17,Bombarderos estratégicos,Aéreo,,50,40000,China,BRICS
+18,Misiles tierra-aire,Tierra,120,18000,China,BRICS
+19,Submarinos,Océano,10,30000,China,BRICS
+20,Tropas de paracaidistas,Aéreo,,500,7500,Reino Unido,OTAN
+21,Drones,Aéreo,200,5000,Reino Unido,OTAN
+22,Destructores,Océano,5,25000,Reino Unido,OTAN
+23,Tropas de montaña,Tierra,600,12000,India,BRICS
+24,Helicópteros de ataque,Aéreo,70,21000,India,BRICS
+25,Transporte de suministros,Tierra,1000,3000,India,BRICS

@@ -1,0 +1,50 @@
+1;Counter-Strike: Global Offensive;50;9
+2;The Witcher 3: Wild Hunt;30;10
+3;Cyberpunk 2077;20;8
+4;Red Dead Redemption 2;40;9
+5;Dota 2;0;7
+6;Elden Ring;25;10
+7;Apex Legends;0;8
+8;Grand Theft Auto V;60;9
+9;Rust;35;8
+10;Baldur's Gate 3;15;10
+11;Hades;20;9
+12;Stardew Valley;10;8
+13;Among Us;5;7
+14;Terraria;15;9
+15;Hollow Knight;20;10
+16;Portal 2;10;9
+17;Left 4 Dead 2;5;8
+18;Team Fortress 2;0;7
+19;ARK: Survival Evolved;60;10
+20;Fall Guys;10;7
+21;Phasmophobia;25;8
+22;Slay the Spire;20;9
+23;Subnautica;30;9
+24;No Man's Sky;40;8
+25;The Forest;20;8
+26;Dead by Daylight;35;7
+27;Rainbow Six Siege;50;8
+28;PUBG: Battlegrounds;0;7
+29;Sea of Thieves;45;8
+30;Valheim;20;9
+31;Dark Souls III;30;10
+32;Sekiro: Shadows Die Twice;40;10
+33;Monster Hunter: World;50;9
+34;Final Fantasy XIV;60;9
+35;The Elder Scrolls V: Skyrim;20;10
+36;BioShock Infinite;15;9
+37;Borderlands 3;30;8
+38;DOOM Eternal;40;9
+39;Half-Life: Alyx;50;10
+40;Control;30;8
+41;Outer Wilds;25;9
+42;Disco Elysium;20;10
+43;The Sims 4;10;7
+44;Planet Zoo;30;8
+45;Cities: Skylines;20;9
+46;Kerbal Space Program;25;8
+47;Factorio;30;9
+48;Don't Starve Together;15;8
+49;Oxygen Not Included;20;9
+50;Frostpunk;25;8

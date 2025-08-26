@@ -1,0 +1,25 @@
+1,Europa Oriental,Tierra,50000,Nevado
+2,Pacífico Asiático,Aéreo,3000,Soleado
+3,Sahara Central,Tierra,200000,Tormenta de arena
+4,Atlántico Norte,Océano,4000,Lluvia
+5,Amazonas,Tierra,1500,Lluvia tropical
+6,Montañas Rocosas,Tierra,1800,Nevado
+7,Desierto del Gobi,Tierra,25000,Soleado
+8,Mar Mediterráneo,Océano,3500,Soleado
+9,Siberia Occidental,Tierra,10000,Nevado
+10,Golfo Pérsico,Tierra,30000,Soleado
+11,Selva del Congo,Tierra,1500,Lluvia tropical
+12,Himalayas,Tierra,1200,Nevado
+13,Mar Báltico,Océano,4000,Nevado
+14,Islas Filipinas,Océano,350,Lluvia
+15,Tierras Altas de Escocia,Tierra,2000,Lluvia
+16,Océano Índico,Océano,4000,Lluvia
+17,Caribe,Océano,3000,Lluvia tropical
+18,Estepa Rusa,Tierra,45000,Nevado
+19,Desierto de Atacama,Tierra,25000,Soleado
+20,Alpes Suizos,Tierra,1500,Nevado
+21,Antártida,Tierra,1000,Nevado
+22,Planicies de Kazajistán,Tierra,3000,Nevado
+23,Océano Pacífico Central,Océano,500,Lluvia tropical
+24,Jungla de Borneo,Tierra,1050,Lluvia tropical
+25,Valle del Nilo,Tierra,2000,Soleado

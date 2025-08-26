@@ -1,0 +1,6 @@
+1,Colt M1911,Pistola,incompleto
+2,HK MP5,Subfusil,completo
+3,M67,Granada,incompleto
+4,RPG-7,Lanzacohetes,completo
+5,M4 Sherman,Tanque,incompleto
+6,Predator Mini,Dron,completo

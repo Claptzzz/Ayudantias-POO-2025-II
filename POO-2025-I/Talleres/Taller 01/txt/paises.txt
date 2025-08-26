@@ -1,0 +1,10 @@
+EE.UU.;OTAN
+Rusia;BRICS
+China;BRICS
+Francia;OTAN
+Reino Unido;OTAN
+Alemania;OTAN
+India;BRICS
+Japón;OTAN
+Brasil;BRICS
+Corea del Norte;BRICS

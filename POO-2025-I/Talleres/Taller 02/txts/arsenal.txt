@@ -1,0 +1,25 @@
+1,Artillería Pesada,Tierra,500,250000,Estados Unidos,OTAN
+2,Misiles Balísticos Intercontinentales,Tierra,50,500000,Rusia,BRICS
+3,Buques de Guerra,Océano,20,400000,China,BRICS
+4,Sistemas de Defensa Antimisiles,Tierra,150,300000,Francia,OTAN
+5,Bombas de Racimo,Tierra,1000,150000,Reino Unido,OTAN
+6,Lanzacohetes Múltiples,Tierra,250,125000,India,BRICS
+7,Aviones de Combate,Aéreo,100,400000,Alemania,OTAN
+8,Cañones de Riel,Tierra,10,100000,China,BRICS
+9,Misiles Crucero,Aéreo,120,360000,Estados Unidos,OTAN
+10,Minas Marinas,Océano,500,75000,Rusia,BRICS
+11,Sistemas Láser,Aéreo,50,250000,Estados Unidos,OTAN
+12,Drones Armados,Aéreo,300,90000,Reino Unido,OTAN
+13,Lanzadores Portátiles de Misiles,Tierra,200,60000,India,BRICS
+14,Armas Nucleares,Tierra,10,1000000,Rusia,BRICS
+15,Sistemas de Guerra Electrónica,Aéreo,20,200000,China,BRICS
+16,Torretas Automáticas,Tierra,150,75000,Francia,OTAN
+17,Helicópteros de Ataque,Aéreo,50,250000,India,BRICS
+18,Barcos de Desembarco,Océano,30,90000,Estados Unidos,OTAN
+19,Submarinos Nucleares,Océano,15,600000,China,BRICS
+20,Camiones de Transporte Militar,Tierra,500,15000,Alemania,OTAN
+21,Misiles Tierra-Aire,Aéreo,80,200000,China,BRICS
+22,Fragatas,Océano,25,500000,Reino Unido,OTAN
+23,Tanques Principales de Batalla,Tierra,300,450000,Rusia,BRICS
+24,Portaaviones,Océano,5,1250000,Estados Unidos,OTAN
+25,Bombarderos Estratégicos,Aéreo,40,1600000,China,BRICS

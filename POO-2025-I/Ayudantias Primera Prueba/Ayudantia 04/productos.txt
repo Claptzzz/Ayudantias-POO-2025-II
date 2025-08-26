@@ -1,0 +1,5 @@
+P001;Smartphone Samsung A14;Celular;179.990;12
+P002;Laptop Lenovo i5;Computadores;489.990;8
+P003;Auriculares JBL Tune 510BT;Audio;49.990;20
+P004;Monitor LG 24'';Monitores;129.990;10
+P005;Teclado Mecánico Redragon K552;Periféricos;39.990;15

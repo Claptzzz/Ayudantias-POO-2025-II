@@ -1,0 +1,6 @@
+1,luisa_fernandez,arqueo123,arqueologo
+2,miguel_rojas,securewar,general
+3,catalina_munoz,dinoR3search,arqueologo
+4,rodrigo_diaz,t34tank,general
+5,elena_martinez,claveSegura123,arqueologo
+6,carlos_soto,firepower88,general

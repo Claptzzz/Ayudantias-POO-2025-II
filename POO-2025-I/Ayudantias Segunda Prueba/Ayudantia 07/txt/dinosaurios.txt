@@ -1,0 +1,6 @@
+1,Herbivoro,Brachio, Brachiosaurus,100,Altas,Cepillo
+2,Carnivoro,Blue,Velociraptor,25,Velocidad,Caza en manada
+3,Volador,Ptero,Pteranodon,70,15m,Planeador
+4,Herbivoro,Triki,Triceratops,80,Bajo,Cuerno afilado
+5,Carnivoro,Rex,Tyrannosaurus,90,Fuerza,Mordida letal
+6,Volador,Ala,Pterodaustro,60,8m,Pico largo

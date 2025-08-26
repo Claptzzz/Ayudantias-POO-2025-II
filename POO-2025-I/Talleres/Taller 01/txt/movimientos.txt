@@ -1,0 +1,13 @@
+Europa Oriental;EE.UU.;Infantería-1000-2,Fuerza Aérea-30-18;Bombas Nucleares-2-100,Bombas de Fosforo-1-25
+Europa Oriental;Rusia;Infantería-1200-2,Artillería-50-6;Bombas Termonucleares-2-150
+Mar del Sur de China;China;Fuerza Aérea-50-18,Tanques-40-15;Bombas de Fosforo-3-25
+Mar del Sur de China;Japón;Infantería-1500-2,Artillería-60-6;Bombas Nucleares-3-100,Bombas de Fosforo-2-25
+Mar del Sur de China;EE.UU.;Infantería-2000-2,Tanques-25-15;Bombas Nucleares-4-100
+África Central;Francia;Infantería-500-2,Artillería-20-6;Bombas de Fosforo-2-25
+África Central;India;Infantería-700-2,Fuerza Aérea-20-18;Bombas Termonucleares-1-150
+Atlántico Norte;Brasil;Infantería-800-2,Artillería-30-6;Bombas de Fosforo-2-25
+Atlántico Norte;Reino Unido;Infantería-600-2,Fuerza Aérea-15-18;Bombas Nucleares-1-100
+Asia Oriental;Corea del Norte;Tanques-50-15,Artillería-20-6;Bombas Termonucleares-1-150
+Asia Oriental;Japón;Infantería-900-2,Artillería-40-6;Bombas de Fosforo-3-25,Bombas Nucleares-1-100
+
+

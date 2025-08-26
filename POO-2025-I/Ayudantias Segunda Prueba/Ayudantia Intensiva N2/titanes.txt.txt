@@ -1,0 +1,9 @@
+Titan Fundador,7050,13,85,60,90,Eldia,95.5
+Titan Colosal,60000,60,100,40,70,Eldia,99.9,85.4
+Titan Hembra,14000,14,80,60,85,Eldia,92.3
+Titan Bestia,17000,17,75,50,80,Marley,18.2,94.7
+Titan Acorazado,23000,15,85,100,95,Marley,98.8
+Titan de Ataque,15000,15,90,70,95,Eldia,89.2
+Titan Mandíbula,10000,5,70,50,80,Marley,93.6
+Titan Carro,9500,4,60,65,100,Marley,88.1
+Titan Martillo de Guerra,14000,15,90,90,85,Marley,Mazo de Cristal

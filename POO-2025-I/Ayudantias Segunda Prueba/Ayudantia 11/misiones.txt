@@ -1,0 +1,6 @@
+Exploracion;Marte;120;10000;ALTO
+Colonizacion;Luna;300;25000;MEDIO
+Investigacion;Europa;90;45000;BAJO
+Exploracion;Venus;150;12000;ALTO
+Colonizacion;Titan;400;30000;ALTO
+Investigacion;Encélado;80;85000;MEDIO

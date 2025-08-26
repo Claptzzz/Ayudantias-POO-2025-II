@@ -1,0 +1,15 @@
+1,Daniel_Strategist,duran2025,Administrador
+2,AlejandroTactician,alejo2023,Jugador
+3,MarianaTheBrave,mari_battle,Jugador
+4,SofiaCommander,sofiatop,Jugador
+5,LuisObserver,luiso2024,Espectador
+6,IsabelAnalyst,isa_stats,Espectador
+7,CamilaLeader,cami_secure,Administrador
+8,FernandoWarrior,fercombat,Jugador
+9,ValeriaTactics,valeria_gamer,Jugador
+10,DiegoSpectator,diego_view,Espectador
+11,AndreaChief,andrea_admin,Administrador
+12,SebastianGeneral,seb_topgun,Jugador
+13,RenataField,renata_secure,Jugador
+14,FranciscoWatch,fran_scope,Espectador
+15,CatalinaRoot,cata_master,Administrador

@@ -1,0 +1,10 @@
+Paramo;3
+Triceratops,Dodo,Carnotaurus
+Montañas;3
+Tyrannosaurus Rex,Carnotaurus,Quetzal
+Rio;2
+Therizinosaurus,Velociraptor
+Lago;7
+Willow
+Bosque;3
+Therizinosaurus,Velociraptor,Dodo

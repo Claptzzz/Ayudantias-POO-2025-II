@@ -1,0 +1,4 @@
+20456789-3;Juan Pérez;Av. Chile 123;V1
+18543872-0;Ana Gómez;Calle Lima 456;V2
+20987456-K;Pedro Sánchez;Pasaje Sol 789;V3
+20124567-2;Camila Rojas;Ruta Norte 321;V4

@@ -1,0 +1,6 @@
+1,Tyrannosaurus Rex,terópodo,extinto
+2,Triceratops,ceratopsiano,extinto
+3,Velociraptor,terópodo,no extinto
+4,Brachiosaurus,saurópodo,extinto
+5,Spinosaurus,terópodo,extinto
+6,Ankylosaurus,anquilosaurio,no extinto

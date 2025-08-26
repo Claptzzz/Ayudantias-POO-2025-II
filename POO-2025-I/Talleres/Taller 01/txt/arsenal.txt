@@ -1,0 +1,9 @@
+EE.UU.;Bombas Nucleares-50-100;Bombas_de_Racimo-100-30
+Rusia;Bombas Termonucleares-20-150;Bombas_de_Fósforo-80-25
+China;Bombas de Racimo-200-30
+Francia;Bombas Nucleares-10-100
+Reino Unido;Bombas de Racimo-50-30
+India;Bombas de Fósforo-100-25
+Japón;Bombas de Racimo-20-30
+Brasil;Bombas de Fósforo-60-25
+Corea del Norte;Bombas Termonucleares-15-150

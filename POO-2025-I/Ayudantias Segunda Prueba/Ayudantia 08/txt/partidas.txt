@@ -1,0 +1,100 @@
+Ted Mosby,Loader,53.99,4934,1491,839.55,44.0
+Barney,Huntress,58.19,5471,266,7.55
+Ted Mosby,Engineer,45.78,7298,6
+Barney,Loader,15.21,6334,4897,485.58,40.0
+Barney,Loader,52.08,2869,483,616.03,7.0
+Marshall,Loader,27.38,4117,4403,357.47,17.0
+Marshall,Huntress,18.05,1463,280,13.38
+Barney,Loader,9.95,1903,1918,27.42,38.0
+Ted Mosby,Engineer,12.78,4690,8
+Barney,Loader,38.41,123,2968,723.39,14.0
+Ted Mosby,Loader,14.43,7955,4598,474.3,45.0
+Marshall,Huntress,34.51,3440,265,8.83
+Barney,Engineer,24.95,1817,4
+Marshall,Loader,21.94,6459,4944,881.4,2.0
+Marshall,Engineer,33.74,6987,4
+Marshall,Engineer,44.18,7043,7
+Ted Mosby,Engineer,35.34,2321,4
+Marshall,Loader,47.57,3123,1399,791.05,2.0
+Marshall,Engineer,47.27,2352,4
+Ted Mosby,Huntress,22.31,4030,277,14.29
+Barney,Huntress,16.38,7385,57,11.62,
+Marshall,Loader,53.56,182,525,499.21,11.0
+Marshall,Loader,35.15,9488,512,426.55,2.0
+Ted Mosby,Huntress,11.25,9324,190,9.7
+Marshall,Loader,22.62,9804,1169,199.32,9.0
+Marshall,Huntress,16.57,8321,157,9.19
+Ted Mosby,Loader,20.59,2440,3280,278.35,47.0
+Barney,Loader,38.55,9934,3008,525.39,6.0
+Barney,Huntress,20.62,4957,70,14.27
+Barney,Engineer,25.51,9067,6
+Marshall,Engineer,51.26,6221,7
+Ted Mosby,Loader,26.16,778,1284,124.41,17.0
+Marshall,Engineer,21.9,8888,3
+Marshall,Engineer,29.99,6325,5
+Marshall,Loader,33.72,2641,407,115.97,9.0
+Barney,Engineer,15.75,3550,6
+Marshall,Loader,51.48,6610,2351,853.25,8.0
+Marshall,Huntress,25.09,9954,66,12.49
+Marshall,Loader,23.2,9266,272,332.67,20.0
+Barney,Engineer,24.87,4396,7
+Ted Mosby,Huntress,49.38,9379,104,11.87
+Barney,Loader,34.93,7830,2360,473.55,25.0
+Marshall,Engineer,5.05,3847,2
+Marshall,Huntress,43.82,2399,269,11.21
+Barney,Loader,28.63,3593,3871,381.56,50.0
+Barney,Engineer,57.93,8530,10
+Marshall,Engineer,36.47,6779,7
+Marshall,Engineer,32.01,8739,8
+Marshall,Engineer,41.43,7374,7
+Barney,Loader,32.87,4135,2618,354.6,48.0
+Barney,Engineer,24.92,8785,4
+Marshall,Loader,18.58,1163,4010,225.41,2.0
+Barney,Huntress,35.63,3214,185,12.3
+Barney,Loader,14.44,8048,2039,76.02,11.0
+Marshall,Huntress,17.63,1962,34,5.38
+Ted Mosby,Engineer,21.76,1690,6
+Ted Mosby,Loader,10.93,4518,4227,113.08,28.0
+Ted Mosby,Huntress,37.56,3337,252,9.18
+Ted Mosby,Engineer,17.4,8391,9
+Marshall,Engineer,13.96,2251,10
+Ted Mosby,Engineer,14.48,8695,5
+Marshall,Loader,18.38,1667,4461,789.58,22.0
+Marshall,Loader,39.79,1399,3529,956.34,44.0
+Marshall,Engineer,14.51,5914,10
+Barney,Huntress,42.92,9464,60,7.56
+Marshall,Loader,34.79,3871,3564,868.33,33.0
+Barney,Engineer,51.17,4134,6
+Barney,Engineer,31.95,2918,5
+Marshall,Engineer,7.39,7088,4
+Marshall,Huntress,32.42,5337,61,12.82
+Barney,Huntress,52.91,688,202,10.49
+Marshall,Huntress,59.29,1466,273,6.24
+Ted Mosby,Huntress,46.37,6996,128,5.3
+Ted Mosby,Engineer,53.06,5049,10
+Barney,Loader,10.3,7419,4306,538.66,31.0
+Ted Mosby,Engineer,34.61,2744,8
+Ted Mosby,Engineer,46.47,6015,6
+Ted Mosby,Huntress,32.43,6661,116,14.93
+Ted Mosby,Loader,41.92,4407,4802,509.1,46.0
+Ted Mosby,Huntress,21.4,7087,181,14.76
+Ted Mosby,Loader,6.5,5636,113,303.9,9.0
+Marshall,Engineer,20.78,5777,4
+Barney,Huntress,40.28,6301,40,9.49
+Ted Mosby,Huntress,49.63,5676,256,8.64
+Marshall,Engineer,27.06,7042,3
+Marshall,Huntress,33.97,8551,265,6.44
+Marshall,Huntress,58.88,1908,292,10.32
+Ted Mosby,Engineer,30.86,3617,2
+Barney,Huntress,58.35,9898,200,11.23
+Barney,Engineer,43.58,3210,3
+Barney,Engineer,30.29,2576,10
+Ted Mosby,Huntress,15.31,4784,146,6.38
+Marshall,Engineer,45.98,7916,4
+Ted Mosby,Huntress,53.72,9313,134,7.54
+Barney,Engineer,43.34,9021,1
+Marshall,Engineer,29.21,238,10
+Barney,Engineer,11.68,6525,5
+Barney,Engineer,51.92,6759,6
+Barney,Huntress,49.58,3986,134,6.59
+Ted Mosby,Huntress,25.01,5624,183,7.31

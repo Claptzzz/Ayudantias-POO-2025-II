@@ -1,0 +1,7 @@
+1,ValeriaTactics,valeria_gamer,Jugador
+2,DiegoSpectator,diego_view,Jugador
+3,AndreaChief,andrea_admin,Administrador
+4,SebastianGeneral,seb_topgun,Jugador
+5,RenataField,renata_secure,Jugador
+6,FranciscoWatch,fran_scope,Administrador
+7,CatalinaRoot,cata_master,Administrador

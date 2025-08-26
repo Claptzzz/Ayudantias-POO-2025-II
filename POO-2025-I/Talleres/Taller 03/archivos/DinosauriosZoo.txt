@@ -1,0 +1,200 @@
+1,Gaspar,Triceratops,8094.16,Herbivoro,13162.87,7.6
+2,Nico,Quetzal,237.46,Carnivoro,14.88,45.74
+3,Roco,Triceratops,10322.13,Herbivoro,15381.96,8.39
+4,Tomy,Triceratops,6336.9,Herbivoro,10480.66,3.09
+5,Canela,Carnotaurus,1482.58,Carnivoro,23.56
+6,Fido,Velociraptor,15.42,Carnivoro,56.18,6.17
+7,Gaspar,Velociraptor,16.36,Carnivoro,44.66,6.45
+8,Tobi,Velociraptor,19.66,Carnivoro,42.39,4.62
+9,Simón,Carnotaurus,1335.52,Carnivoro,20.9
+10,Rocky,Quetzal,248.15,Carnivoro,18.54,42.36
+11,Nube,Tyrannosaurus Rex,8251.73,Carnivoro,36801.11,8.9
+12,Simón,Triceratops,9469.69,Herbivoro,10497.91,1.98
+13,Bimba,Tyrannosaurus Rex,8944.73,Carnivoro,35629.59,8.13
+14,Boby,Dodo,11.41,Omnivoro,0.14
+15,Nico,Tyrannosaurus Rex,12724.84,Carnivoro,40564.49,3.48
+16,Mimi,Velociraptor,15.03,Carnivoro,55.35,8.1
+17,Sol,Quetzal,233.71,Carnivoro,17.47,59.96
+18,Tina,Carnotaurus,1478.84,Carnivoro,26.14
+19,Canela,Quetzal,248.27,Carnivoro,13.55,51.09
+20,Sol,Quetzal,217.19,Carnivoro,13.71,44.58
+21,Zazá,Triceratops,6927.46,Herbivoro,12963.3,7.27
+22,Firulais,Tyrannosaurus Rex,11049.89,Carnivoro,43060.94,6.65
+23,Nina,Dodo,12.65,Omnivoro,0.25
+24,Galleta,Quetzal,216.34,Carnivoro,19.56,57.96
+25,Pancho,Dodo,12.32,Omnivoro,0.38
+26,Pepe,Quetzal,211.66,Carnivoro,11.47,45.2
+27,Nico,Therizinosaurus,3300.79,Herbivoro,99.15,4182.37
+28,Roco,Velociraptor,18.49,Carnivoro,55.94,3.18
+29,Fina,Triceratops,11109.82,Herbivoro,15653.77,5.01
+30,Roco,Tyrannosaurus Rex,8058.47,Carnivoro,52711.36,5.61
+31,Tito,Carnotaurus,1462.87,Carnivoro,25.9
+32,Fido,Therizinosaurus,3520.56,Herbivoro,92.64,2820.48
+33,Tobi,Carnotaurus,1468.86,Carnivoro,23.19
+34,Rocky,Triceratops,8932.85,Herbivoro,13812.83,4.05
+35,Boby,Therizinosaurus,4188.45,Herbivoro,72.95,2728.16
+36,Tito,Quetzal,202.8,Carnivoro,14.74,56.32
+37,Milo,Tyrannosaurus Rex,13692.55,Carnivoro,49937.1,7.55
+38,Pepe,Velociraptor,19.06,Carnivoro,43.71,2.59
+39,Bruno,Triceratops,7756.13,Herbivoro,10819.18,2.45
+40,Galleta,Quetzal,201.25,Carnivoro,19.82,47.52
+41,Sol,Dodo,15.55,Omnivoro,0.44
+42,Morocha,Triceratops,10811.49,Herbivoro,10770.22,8.91
+43,Roco,Carnotaurus,1887.1,Carnivoro,25.6
+44,Almendra,Dodo,14.32,Omnivoro,0.44
+45,Rocky,Therizinosaurus,3285.52,Herbivoro,76.76,4416.87
+46,Boby,Quetzal,220.55,Carnivoro,12.56,55.65
+47,Tito,Therizinosaurus,4365.7,Herbivoro,93.82,3799.26
+48,Daisy,Carnotaurus,1825.54,Carnivoro,22.28
+49,Canela,Dodo,14.47,Omnivoro,0.22
+50,Kira,Velociraptor,15.73,Carnivoro,40.98,9.4
+51,Tina,Therizinosaurus,4769.5,Herbivoro,75.63,4527.14
+52,Chispa,Dodo,15.02,Omnivoro,0.35
+53,Galleta,Tyrannosaurus Rex,9382.28,Carnivoro,39620.43,7.02
+54,Nico,Dodo,14.27,Omnivoro,0.2
+55,Nube,Quetzal,208.81,Carnivoro,12.37,46.04
+56,Fina,Triceratops,6526.25,Herbivoro,14251.37,4.08
+57,Chisguete,Tyrannosaurus Rex,13193.8,Carnivoro,50816.59,3.62
+58,Bimba,Quetzal,245.39,Carnivoro,18.26,57.77
+59,Pepe,Quetzal,203.72,Carnivoro,10.75,51.26
+60,Pepe,Dodo,10.65,Omnivoro,0.42
+61,Bruno,Velociraptor,17.91,Carnivoro,50.38,7.39
+62,Lola,Triceratops,7780.57,Herbivoro,12431.92,5.26
+63,Daisy,Tyrannosaurus Rex,8609.31,Carnivoro,40518.79,9.63
+64,Fina,Quetzal,246.44,Carnivoro,15.47,54.96
+65,Linda,Triceratops,10920.36,Herbivoro,15140.41,6.54
+66,Tina,Carnotaurus,1677.73,Carnivoro,15.27
+67,Lolo,Velociraptor,18.67,Carnivoro,48.88,9.75
+68,Pelusa,Tyrannosaurus Rex,8318.31,Carnivoro,43935.81,3.96
+69,Mimi,Carnotaurus,1897.16,Carnivoro,15.59
+70,Pepe,Therizinosaurus,3195.31,Herbivoro,82.14,4039.7
+71,Bimba,Dodo,16.2,Omnivoro,0.19
+72,Lolo,Dodo,12.05,Omnivoro,0.35
+73,Lolo,Velociraptor,15.39,Carnivoro,51.08,1.03
+74,Bruno,Carnotaurus,1402.55,Carnivoro,27.06
+75,Milo,Tyrannosaurus Rex,13835.94,Carnivoro,45472.84,1.68
+76,Roco,Therizinosaurus,3184.16,Herbivoro,73.73,1726.95
+77,Lola,Velociraptor,19.42,Carnivoro,58.46,5.15
+78,Tito,Quetzal,208.57,Carnivoro,18.8,40.04
+79,Raul,Velociraptor,18.89,Carnivoro,59.05,8.19
+80,Nico,Therizinosaurus,3710.4,Herbivoro,73.87,4451.0
+81,Rocky,Triceratops,10959.65,Herbivoro,15086.9,2.79
+82,Milo,Quetzal,242.94,Carnivoro,15.03,44.8
+83,Raul,Dodo,12.2,Omnivoro,0.35
+84,Bimba,Triceratops,8564.24,Herbivoro,12446.95,1.58
+85,Boby,Velociraptor,19.39,Carnivoro,52.42,3.14
+86,Fido,Therizinosaurus,3431.23,Herbivoro,99.61,2581.45
+87,Boby,Triceratops,10457.54,Herbivoro,14106.92,8.56
+88,Fina,Therizinosaurus,3664.98,Herbivoro,90.7,1446.83
+89,Pelusa,Dodo,11.85,Omnivoro,0.17
+90,Tobi,Therizinosaurus,4969.24,Herbivoro,87.72,3744.82
+91,Zazá,Carnotaurus,1918.79,Carnivoro,26.01
+92,Zazá,Quetzal,216.41,Carnivoro,18.95,49.67
+93,Kira,Carnotaurus,2002.26,Carnivoro,19.66
+94,Simón,Triceratops,6553.21,Herbivoro,14558.82,6.54
+95,Zazá,Carnotaurus,1803.14,Carnivoro,19.56
+96,Galleta,Triceratops,8052.69,Herbivoro,13694.33,5.7
+97,Nico,Carnotaurus,1975.68,Carnivoro,17.81
+98,Nico,Carnotaurus,1491.55,Carnivoro,21.62
+99,Sol,Velociraptor,16.35,Carnivoro,54.95,7.79
+100,Nube,Tyrannosaurus Rex,9107.93,Carnivoro,47202.68,9.81
+101,Roco,Velociraptor,16.75,Carnivoro,52.68,7.15
+102,Lola,Dodo,11.94,Omnivoro,0.35
+103,Kira,Therizinosaurus,3706.85,Herbivoro,72.35,1427.96
+104,Pepe,Dodo,14.9,Omnivoro,0.46
+105,Coco,Therizinosaurus,3740.11,Herbivoro,72.02,1165.99
+106,Morocha,Velociraptor,18.32,Carnivoro,46.48,1.99
+107,Zazá,Tyrannosaurus Rex,10297.42,Carnivoro,52512.28,3.77
+108,Galleta,Carnotaurus,1551.0,Carnivoro,28.45
+109,Chispa,Tyrannosaurus Rex,13418.21,Carnivoro,43375.09,4.22
+110,Pepe,Dodo,13.95,Omnivoro,0.4
+111,Coco,Carnotaurus,1653.27,Carnivoro,28.86
+112,Morocha,Velociraptor,16.09,Carnivoro,51.02,6.58
+113,Morocha,Quetzal,207.13,Carnivoro,12.61,54.58
+114,Zazá,Dodo,15.22,Omnivoro,0.11
+115,Tito,Dodo,11.0,Omnivoro,0.19
+116,Firulais,Dodo,10.4,Omnivoro,0.32
+117,Linda,Therizinosaurus,3537.3,Herbivoro,85.54,2789.37
+118,Daisy,Carnotaurus,1533.62,Carnivoro,22.27
+119,Zazá,Velociraptor,15.58,Carnivoro,58.95,6.07
+120,Pepe,Therizinosaurus,4734.67,Herbivoro,75.55,3109.15
+121,Fina,Triceratops,9683.6,Herbivoro,10152.72,5.26
+122,Pelusa,Quetzal,220.66,Carnivoro,18.04,42.54
+123,Tomy,Dodo,15.4,Omnivoro,0.14
+124,Pelusa,Dodo,13.21,Omnivoro,0.19
+125,Pelusa,Therizinosaurus,3873.99,Herbivoro,93.62,1580.56
+126,Bruno,Velociraptor,18.25,Carnivoro,58.63,2.69
+127,Linda,Triceratops,6712.04,Herbivoro,12156.14,8.58
+128,Pelusa,Velociraptor,16.69,Carnivoro,58.33,8.96
+129,Tomy,Dodo,10.09,Omnivoro,0.4
+130,Tobi,Tyrannosaurus Rex,13492.94,Carnivoro,39325.0,2.55
+131,Zazá,Dodo,10.48,Omnivoro,0.18
+132,Chisguete,Dodo,13.12,Omnivoro,0.19
+133,Firulais,Carnotaurus,1303.92,Carnivoro,17.59
+134,Fido,Carnotaurus,1383.76,Carnivoro,20.25
+135,Tobi,Dodo,11.94,Omnivoro,0.46
+136,Boby,Velociraptor,17.52,Carnivoro,49.69,1.29
+137,Tito,Therizinosaurus,4808.08,Herbivoro,75.87,1687.72
+138,Fido,Tyrannosaurus Rex,8149.37,Carnivoro,44712.2,9.3
+139,Fina,Tyrannosaurus Rex,10364.78,Carnivoro,46049.66,9.23
+140,Felipe,Tyrannosaurus Rex,11173.24,Carnivoro,36392.62,5.19
+141,Mimi,Carnotaurus,2044.29,Carnivoro,24.35
+142,Nico,Velociraptor,18.22,Carnivoro,57.24,4.93
+143,Simón,Triceratops,9428.2,Herbivoro,15900.92,7.71
+144,Max,Velociraptor,19.98,Carnivoro,46.42,7.48
+145,Linda,Quetzal,202.94,Carnivoro,18.16,40.16
+146,Roco,Carnotaurus,1641.96,Carnivoro,29.91
+147,Simón,Velociraptor,16.53,Carnivoro,45.44,7.96
+148,Zazá,Quetzal,214.4,Carnivoro,16.15,47.08
+149,Pelusa,Velociraptor,19.28,Carnivoro,59.52,5.73
+150,Raul,Carnotaurus,1699.23,Carnivoro,29.8
+151,Fido,Therizinosaurus,3466.23,Herbivoro,73.69,2138.45
+152,Fido,Quetzal,222.63,Carnivoro,14.92,41.13
+153,Morocha,Velociraptor,19.05,Carnivoro,43.81,5.35
+154,Coco,Quetzal,230.99,Carnivoro,12.98,42.28
+155,Tobi,Velociraptor,16.72,Carnivoro,57.07,5.51
+156,Nina,Quetzal,217.76,Carnivoro,13.02,57.46
+157,Boby,Dodo,16.68,Omnivoro,0.28
+158,Raul,Quetzal,230.06,Carnivoro,18.03,49.18
+159,Nico,Tyrannosaurus Rex,12337.79,Carnivoro,50199.43,9.98
+160,Almendra,Tyrannosaurus Rex,9939.74,Carnivoro,38370.7,1.15
+161,Pancho,Triceratops,6879.33,Herbivoro,12691.81,8.0
+162,Milo,Triceratops,8290.23,Herbivoro,10906.22,9.65
+163,Boby,Carnotaurus,1326.09,Carnivoro,26.16
+164,Bruno,Triceratops,9627.35,Herbivoro,11387.51,3.13
+165,Zazá,Triceratops,10844.65,Herbivoro,12514.72,8.88
+166,Rocky,Carnotaurus,1633.27,Carnivoro,27.09
+167,Lola,Quetzal,234.91,Carnivoro,10.61,57.67
+168,Zazá,Dodo,10.44,Omnivoro,0.41
+169,Coco,Tyrannosaurus Rex,9119.97,Carnivoro,54574.06,5.6
+170,Milo,Tyrannosaurus Rex,13949.15,Carnivoro,55411.37,4.91
+171,Lolo,Velociraptor,17.31,Carnivoro,53.6,5.99
+172,Simón,Therizinosaurus,4111.15,Herbivoro,90.1,2520.66
+173,Tomy,Quetzal,205.61,Carnivoro,15.05,51.21
+174,Galleta,Quetzal,236.7,Carnivoro,14.85,47.99
+175,Nina,Velociraptor,19.78,Carnivoro,51.31,4.88
+176,Sol,Triceratops,7280.21,Herbivoro,12844.43,8.85
+177,Fina,Triceratops,6966.99,Herbivoro,10605.89,9.22
+178,Chisguete,Velociraptor,15.71,Carnivoro,48.45,4.54
+179,Felipe,Tyrannosaurus Rex,12554.82,Carnivoro,45261.09,5.65
+180,Felipe,Therizinosaurus,4196.47,Herbivoro,83.41,2319.37
+181,Max,Tyrannosaurus Rex,10210.54,Carnivoro,53023.94,9.76
+182,Tito,Quetzal,246.09,Carnivoro,14.82,52.0
+183,Fina,Triceratops,8286.89,Herbivoro,12840.32,9.9
+184,Morocha,Velociraptor,15.57,Carnivoro,55.28,6.65
+185,Boby,Dodo,13.84,Omnivoro,0.27
+186,Max,Dodo,11.11,Omnivoro,0.44
+187,Tito,Dodo,10.67,Omnivoro,0.35
+188,Tomy,Triceratops,8955.43,Herbivoro,11473.23,8.93
+189,Raul,Triceratops,10994.61,Herbivoro,11988.69,6.07
+190,Pancho,Therizinosaurus,4356.08,Herbivoro,83.93,3386.65
+191,Pelusa,Tyrannosaurus Rex,12349.2,Carnivoro,52163.59,8.66
+192,Tobi,Tyrannosaurus Rex,8569.84,Carnivoro,48190.13,8.54
+193,Firulais,Therizinosaurus,4169.1,Herbivoro,97.93,3938.18
+194,Lola,Quetzal,205.91,Carnivoro,19.26,49.82
+195,Firulais,Therizinosaurus,3404.93,Herbivoro,95.66,4671.77
+196,Daisy,Quetzal,246.64,Carnivoro,12.07,50.69
+197,Kira,Dodo,16.59,Omnivoro,0.25
+198,Nube,Velociraptor,15.97,Carnivoro,59.24,7.45
+199,Tomy,Triceratops,11208.55,Herbivoro,13803.38,2.04
+200,Pelusa,Carnotaurus,1588.04,Carnivoro,22.33

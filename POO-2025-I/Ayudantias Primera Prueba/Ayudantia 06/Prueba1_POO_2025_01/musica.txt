@@ -1,0 +1,86 @@
+1,The Number of the Beast,1,1982,4
+1,The Number of the Beast,4:50,Heavy Metal,5
+2,Run to the Hills,3:54,Heavy Metal,5
+3,Hallowed Be Thy Name,7:12,Progressive Metal,5
+4,Children of the Damned,4:34,Heavy Metal,4
+2,Powerslave,1,1984,4
+5,Aces High,4:31,Heavy Metal,5
+6,2 Minutes to Midnight,6:00,Hard Rock,5
+7,Powerslave,6:47,Progressive Metal,4
+8,Flash of the Blade,4:05,Heavy Metal,4
+3,Seventh Son of a Seventh Son,1,1988,4
+9,Can I Play with Madness,3:31,Hard Rock,4
+10,The Evil That Men Do,4:34,Heavy Metal,5
+11,Infinite Dreams,6:08,Progressive Metal,5
+12,Seventh Son of a Seventh Son,9:53,Progressive Metal,5
+4,La Voz de los '80,2,1984,4
+13,La Voz de los '80,2:49,New Wave,5
+14,Brigada de Negro,3:10,Post-Punk,4
+15,Sexo,4:00,Synthpop,4
+16,Paramar,3:20,Rock Latino,5
+5,Pateando Piedras,2,1986,4
+17,Muevan las Industrias,3:40,Rock Latino,5
+18,Por Qué No Se Van,2:54,Pop Rock,5
+19,El Baile de los Que Sobran,4:48,Rock Alternativo,5
+20,Independencia Cultural,2:40,Rock Latino,4
+6,Corazones,2,1990,4
+21,Tren al Sur,4:38,Synthpop,5
+22,Amiga Mía,3:45,Pop Rock,5
+23,Con Suavidad,3:30,Pop Rock,4
+24,Es Demasiado Tarde,4:12,Rock Alternativo,4
+7,Ecliptica,3,1999,4
+25,FullMoon,5:08,Power Metal,5
+26,Replica,4:55,Melodic Power Metal,5
+27,Kingdom for a Heart,3:52,Power Metal,4
+28,My Land,4:38,Power Metal,5
+8,Silence,3,2001,4
+29,Wolf and Raven,4:16,Speed Metal,5
+30,Last Drop Falls,5:13,Melodic Metal,4
+31,Tallulah,5:20,Melodic Ballad,5
+32,San Sebastian,5:01,Power Metal,5
+9,Winterheart's Guild,3,2003,4
+33,Victoria's Secret,4:26,Symphonic Power Metal,5
+34,Broken,4:32,Melodic Power Metal,4
+35,The Cage,5:02,Neoclassical Power Metal,4
+36,Gravenimage,5:02,Melodic Metal,5
+10,A Night at the Opera,4,1975,3
+37,Bohemian Rhapsody,5:55,Progressive Rock,5
+38,Love of My Life,3:38,Soft Rock,5
+39,You're My Best Friend,2:52,Pop Rock,5
+11,The Game,4,1980,5
+40,Another One Bites the Dust,3:35,Funk Rock,5
+41,Crazy Little Thing Called Love,2:44,Rockabilly,5
+42,Save Me,3:48,Soft Rock,5
+43,Dragon Attack,4:19,Hard Rock,4
+44,Play the Game,3:32,Pop Rock,4
+12,Innuendo,4,1991,4
+45,Innuendo,6:31,Progressive Rock,5
+46,The Show Must Go On,4:23,Arena Rock,5
+47,I'm Going Slightly Mad,4:22,Pop Rock,4
+48,These Are the Days of Our Lives,4:15,Soft Rock,5
+13,Grandes Éxitos de los Vikings 5,6,2005,3
+49,Boquita de Caramelo,3:20,Cumbia Romántica,5
+50,Tu Cariñito,3:45,Cumbia Tropical,4
+51,Eres Mi Fantasía,3:50,Cumbia Romántica,4
+14,La Fiesta de los Vikings 5,5,2010,5
+52,Prueba de Amor,3:35,Cumbia Romántica,5
+53,Te Invito a Bailar,3:30,Cumbia Tropical,5
+54,Olvídala Corazón,4:00,Cumbia Romántica,4
+55,Dímelo,3:40,Cumbia Sonora,4
+56,Que Levanten las Manos,4:10,Cumbia Tropical,5
+15,Siempre Vikings 5,5,2018,4
+57,Mi Linda Flor,3:42,Cumbia Romántica,5
+58,Ya No Regresarás,3:50,Cumbia Sonora,4
+59,Secreto Amor,3:30,Cumbia Romántica,5
+60,De Corazón a Corazón,4:05,Cumbia Tropical,5
+16,Pájaros de Arcilla,6,1984,4
+61,Hijo del Sol Luminoso,5:35,Rock Progresivo,5
+62,Viaje por la Cresta del Mundo,6:10,Rock Progresivo,5
+63,En el Patio de Simón,4:25,Fusión Latinoamericana,4
+64,Canción de la Verdad Sencilla,3:50,Folk Progresivo,5
+17,Kind of Blue,7,1959,5
+65,So What,9:22,Modal Jazz,5
+66,Freddie Freeloader,9:46,Blues Jazz,5
+67,Blue in Green,5:29,Modal Jazz,5
+68,All Blues,11:34,Modal Jazz,5
+69,Flamenco Sketches,9:26,Modal Jazz,5
