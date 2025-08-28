@@ -2,6 +2,8 @@
 
 ***Objetivos***
 
+<img align="right" width=80px alt="Unicorn" src="https://media.tenor.com/Ct66IvGHYl8AAAAi/piplup-spin.gif" />
+
 <ul>
 <li>Comprender e implementar la sintaxis de Java.</li>
 <li>Resolver ejercicios simples.</li>
