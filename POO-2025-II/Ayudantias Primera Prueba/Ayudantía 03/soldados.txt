@@ -1,0 +1,3 @@
+Juan_Perez Infanteria 25 1500 Madrid 2 3
+Ana_Garcia Artilleria 30 2300 Barcelona 5 7
+Pedro_Lopez Infanteria 22 800 Valencia 1 8

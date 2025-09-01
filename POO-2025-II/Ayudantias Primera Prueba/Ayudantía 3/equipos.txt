@@ -1,3 +1,0 @@
-TeamSpirit;5;Europa;2019
-G2Esports;5;Europa;2013
-SKT_T1;5;Asia;2012

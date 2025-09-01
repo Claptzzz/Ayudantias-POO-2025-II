@@ -6,7 +6,7 @@
 * Comprender la manipulación de Objetos.
 * Implementar Vectores.
 
-<img align="right" width=260px alt="Unicorn" src="https://media.tenor.com/CI7msUZXbooAAAAj/computer-pressing.gif" />
+<img align="right" width=140px alt="Unicorn" src="https://media.tenor.com/0DFHKtybi94AAAAi/torchic-pokemon.gif" />
 
 ## Ejercicio 0
 
