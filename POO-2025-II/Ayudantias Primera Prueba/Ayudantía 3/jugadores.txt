@@ -1,0 +1,4 @@
+TeamSpirit;Collapse;Top;Gnar;150
+TeamSpirit;TORONTOTOKYO;Jungle;Graves;220
+G2Esports;Caps;Mid;Azir;180
+SKT_T1;Faker;Mid;LeBlanc;320
