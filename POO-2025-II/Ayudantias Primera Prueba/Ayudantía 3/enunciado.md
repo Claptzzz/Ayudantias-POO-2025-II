@@ -1,4 +1,4 @@
-# Segunda Ayudantía
+# Tercera Ayudantía
 
 ### Objetivos
 - Repasar Clases y Objetos básicos.
@@ -68,4 +68,5 @@ Menú Principal:
 6. Estadísticas - Equipo más fuerte y promedios generales
 7. Filtrar por Región - Muestra equipos de una región específica
 8. Salir
+
 ```
