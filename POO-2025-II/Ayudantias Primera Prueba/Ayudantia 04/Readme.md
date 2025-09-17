@@ -10,7 +10,7 @@
 
 ## Ejercicio 1
 
-<a href="https://www.twitch.tv/perr0pelud0" title="Bora PerroPeludo">perr0pelud0</a> es un emergente Streamer el cuál disfruta de hacer contenido jugando videojuegos, pero ultimamente se ha visto complicado organizando sus estadisticas. Por lo cual decides ayudarlo a poder recopilar informacion respecto a sus viewers y los comentarios que emiten.
+<a href="https://www.twitch.tv/perr0pelud0" title="Bora PerroPeludo">perr0pelud0</a> es un emergente Streamer el cuál disfruta de hacer contenido jugando videojuegos, pero ultimamente se ha visto complicado organizando sus estadisticas. Por lo cual decides ayudarlo a recopilar informacion respecto a sus viewers y los comentarios que emiten.
 
 Por lo cual se te entregan los siguientes archivos txt:
 
