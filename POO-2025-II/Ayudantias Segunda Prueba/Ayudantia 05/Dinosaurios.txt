@@ -1,0 +1,100 @@
+1;Velociraptor;Bosque;20;65;9;8
+2;Tyrannosaurus Rex;Pradera;28;30;12;8
+3;Triceratops;Montaña;38;22;9
+4;Brachiosaurus;Bosque;75;11;10
+5;Velociraptor;Desierto;18;60;8;7
+6;Triceratops;Pradera;40;25;9
+7;Tyrannosaurus Rex;Bosque;30;28;13;7
+8;Brachiosaurus;Pradera;70;12;9
+9;Velociraptor;Pradera;19;59;7;6
+10;Tyrannosaurus Rex;Montaña;32;27;11;9
+11;Triceratops;Desierto;41;23;8
+12;Brachiosaurus;Montaña;72;10;9
+13;Velociraptor;Montaña;22;70;8;7
+14;Triceratops;Bosque;42;24;8
+15;Tyrannosaurus Rex;Desierto;29;25;12;8
+16;Brachiosaurus;Desierto;68;11;8
+17;Velociraptor;Bosque;21;62;9;9
+18;Tyrannosaurus Rex;Pradera;28;26;12;7
+19;Triceratops;Pradera;39;22;8
+20;Brachiosaurus;Bosque;76;12;10
+21;Velociraptor;Pradera;19;63;9;9
+22;Tyrannosaurus Rex;Bosque;30;27;12;8
+23;Triceratops;Montaña;43;23;10
+24;Brachiosaurus;Pradera;73;10;9
+25;Velociraptor;Montaña;21;68;9;7
+26;Tyrannosaurus Rex;Montaña;31;29;14;9
+27;Triceratops;Bosque;40;24;9
+28;Brachiosaurus;Montaña;71;11;8
+29;Velociraptor;Pradera;18;62;7;6
+30;Tyrannosaurus Rex;Desierto;32;26;12;7
+31;Triceratops;Pradera;42;25;10
+32;Brachiosaurus;Bosque;75;12;10
+33;Velociraptor;Desierto;20;64;8;8
+34;Tyrannosaurus Rex;Pradera;30;28;13;9
+35;Triceratops;Montaña;41;22;9
+36;Brachiosaurus;Pradera;70;11;9
+37;Velociraptor;Bosque;22;61;9;8
+38;Tyrannosaurus Rex;Bosque;31;27;13;8
+39;Triceratops;Desierto;38;21;8
+40;Brachiosaurus;Montaña;72;10;9
+41;Velociraptor;Montaña;20;65;7;7
+42;Tyrannosaurus Rex;Montaña;33;30;14;9
+43;Triceratops;Bosque;43;24;9
+44;Brachiosaurus;Pradera;73;11;8
+45;Velociraptor;Pradera;19;60;8;7
+46;Tyrannosaurus Rex;Desierto;28;28;12;7
+47;Triceratops;Pradera;41;22;8
+48;Brachiosaurus;Bosque;76;12;9
+49;Velociraptor;Bosque;21;64;9;9
+50;Tyrannosaurus Rex;Pradera;31;29;13;8
+51;Triceratops;Montaña;40;22;9
+52;Brachiosaurus;Montaña;72;10;8
+53;Velociraptor;Montaña;22;69;8;9
+54;Tyrannosaurus Rex;Bosque;30;27;12;8
+55;Triceratops;Pradera;39;23;10
+56;Brachiosaurus;Pradera;71;11;9
+57;Velociraptor;Desierto;18;63;7;7
+58;Tyrannosaurus Rex;Montaña;32;28;14;8
+59;Triceratops;Bosque;42;24;9
+60;Brachiosaurus;Bosque;75;12;10
+61;Velociraptor;Pradera;20;62;8;8
+62;Tyrannosaurus Rex;Desierto;29;25;11;7
+63;Triceratops;Montaña;41;23;9
+64;Brachiosaurus;Montaña;73;10;8
+65;Velociraptor;Bosque;19;61;9;7
+66;Tyrannosaurus Rex;Pradera;30;28;13;9
+67;Triceratops;Pradera;40;22;8
+68;Brachiosaurus;Pradera;70;11;9
+69;Velociraptor;Montaña;21;64;8;8
+70;Tyrannosaurus Rex;Bosque;31;27;12;8
+71;Triceratops;Bosque;42;23;9
+72;Brachiosaurus;Montaña;72;10;9
+73;Velociraptor;Desierto;22;66;9;9
+74;Tyrannosaurus Rex;Montaña;33;30;14;9
+75;Triceratops;Pradera;41;22;8
+76;Brachiosaurus;Bosque;76;12;10
+77;Velociraptor;Pradera;19;60;8;7
+78;Tyrannosaurus Rex;Desierto;28;26;12;8
+79;Triceratops;Montaña;43;23;10
+80;Brachiosaurus;Pradera;73;11;9
+81;Velociraptor;Bosque;21;65;7;7
+82;Tyrannosaurus Rex;Bosque;30;28;13;7
+83;Triceratops;Desierto;40;22;9
+84;Brachiosaurus;Montaña;72;10;8
+85;Velociraptor;Montaña;20;64;8;8
+86;Tyrannosaurus Rex;Pradera;31;29;12;9
+87;Triceratops;Bosque;42;23;9
+88;Brachiosaurus;Pradera;70;11;9
+89;Velociraptor;Pradera;22;67;9;9
+90;Tyrannosaurus Rex;Montaña;32;28;14;8
+91;Triceratops;Montaña;41;22;8
+92;Brachiosaurus;Bosque;75;12;10
+93;Velociraptor;Desierto;19;63;7;7
+94;Tyrannosaurus Rex;Bosque;30;27;12;8
+95;Triceratops;Pradera;39;23;9
+96;Brachiosaurus;Montaña;73;10;9
+97;Velociraptor;Bosque;21;66;8;8
+98;Tyrannosaurus Rex;Desierto;29;25;11;7
+99;Triceratops;Bosque;42;24;10
+100;Brachiosaurus;Pradera;71;11;9

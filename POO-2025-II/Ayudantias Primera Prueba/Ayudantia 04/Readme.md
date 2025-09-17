@@ -56,6 +56,7 @@ Ahora se te pide crear el siguiente menu:
 2) Ver info Viewers
 3) Mostrar comentarios por Stream
 4) Calcular promedio views de todos los Streams
+5) Salir
 ````
 
 ***Aclaraciones***
