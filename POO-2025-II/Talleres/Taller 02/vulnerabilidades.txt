@@ -1,0 +1,13 @@
+22|SSH Brute Force|Permite ataques de fuerza bruta contra el servicio SSH para obtener credenciales válidas
+80|HTTP Directory Traversal|Vulnerabilidad que permite acceder a archivos fuera del directorio web mediante secuencias de navegación
+135|RPC Buffer Overflow|Desbordamiento de buffer en el servicio RPC que puede permitir ejecución remota de código
+443|SSL/TLS Weak Cipher|Uso de cifrados débiles en la conexión SSL que pueden ser comprometidos por atacantes
+445|SMB Remote Code Execution|Vulnerabilidad en el protocolo SMB que permite la ejecución remota de código malicioso
+3306|MySQL SQL Injection|Inyección SQL en bases de datos MySQL que permite acceso no autorizado a datos sensibles
+3389|RDP BlueKeep|Vulnerabilidad crítica en Remote Desktop Protocol que permite ejecución remota de código sin autenticación
+5900|VNC Authentication Bypass|Bypass de autenticación en servicios VNC que permite acceso remoto no autorizado
+8080|HTTP Proxy Misconfiguration|Configuración incorrecta del proxy HTTP que puede exponer servicios internos
+25|SMTP Open Relay|Servidor de correo configurado incorrectamente que puede ser usado para envío masivo de spam
+993|IMAP SSL Certificate Validation|Validación incorrecta de certificados SSL en servicios IMAP que permite ataques man-in-the-middle
+631|CUPS Remote Code Execution|Vulnerabilidad en el servicio de impresión CUPS que permite ejecución remota de código
+5357|UPnP SSDP Amplification|Servicio UPnP mal configurado que puede ser usado para ataques de amplificación DDoS

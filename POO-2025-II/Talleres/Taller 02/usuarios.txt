@@ -1,0 +1,3 @@
+admin;JAvlGPq9JyTdtvBO6x2llnRI1+gxwIyPqCKAn3THIKk=;ADMIN
+alice;A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=;USER
+bob;iNQmb9TmM40TuEX88olXnSCciXgjuSF9o+Fhk28DFYk=;USER
