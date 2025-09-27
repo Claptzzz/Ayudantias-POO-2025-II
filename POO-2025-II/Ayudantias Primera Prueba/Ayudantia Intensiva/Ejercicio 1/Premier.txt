@@ -1,0 +1,8 @@
+W1;Haven
+W2;Corrode
+W3;Lotus
+W4;Ascent
+W5;Sunset
+W6;Bind
+W7;Abyss
+PLAYOFFS;IceBox

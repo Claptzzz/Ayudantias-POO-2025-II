@@ -28,7 +28,7 @@ En esta ocasión se nos presentan 4 especies: Velociraptor, Tyrannosaurus Rex, T
 ***Velociraptor***
 ````
 InteligenciaColectiva;GarrasAfiladas
-((EsperanzaVida+InteligenciaColectiva)/VelocidadPromedio)*GarrasAfiladas
+((VelocidadPromedio+InteligenciaColectiva)/EsperanzaVida)*GarrasAfiladas
 ````
 
 ***Tyrannosaurus Rex***
@@ -53,8 +53,8 @@ Ahora se nos pide generar el siguiente menu:
 
 ````
 1) Filtrar Info de ejemplares por especie
-2) Calcular especie con mejor adaptabilidad acumulada
-3) Mostar ejemplares con mejores atributos
+2) Calcular adaptabilidades acumuladas de cada especie
+3) Mostrar dinosaurio con mejor adaptabilidad
 4) Salir
 ````
 

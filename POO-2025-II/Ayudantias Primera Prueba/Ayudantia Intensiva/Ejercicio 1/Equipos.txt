@@ -1,0 +1,6 @@
+Chungungos;W1;W2;W3;W5;W7;PLAYOFFS
+DeportesVallenar;W2;W3;W5;W7;PLAYOFFS
+Daniloy4Randoms;W2;W1;W5
+DinoGuys;W7;W2;W1
+Chimuelitos;W1
+foo;W1;W2;W3;W4;W5;W6;W7;PLAYOFFFS
