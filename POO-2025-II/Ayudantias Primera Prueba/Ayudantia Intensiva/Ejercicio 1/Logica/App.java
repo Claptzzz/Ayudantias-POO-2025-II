@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 class App {
-    private static Scanner s = new Scanner(System.in);
+    private static Scanner s;
     private static ArrayList<Premier> premiers = new ArrayList<>();
     private static ArrayList<Equipo> equipos = new ArrayList<>();
     private static ArrayList<Jugador> jugadores = new ArrayList<>();
