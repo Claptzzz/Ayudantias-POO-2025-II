@@ -1,0 +1,7 @@
+PR001|T001|Bug|Error en el login de usuarios|Pendiente|colab1|Alta|2025-08-01
+PR001|T002|Feature|Agregar carrito de compras|Pendiente|colab2|Media|2025-08-01
+PR001|T003|Documentacion|Redactar manual de usuario|En progreso|colab1|Baja|2025-08-02
+PR002|T004|Feature|Implementar módulo de reportes|Pendiente|colab2|Alta|2025-08-02
+PR002|T005|Bug|Fallo en exportación de datos|Pendiente|colab1|Alta|2025-08-03
+PR003|T006|Feature|Diseñar pantalla de reservas|Pendiente|colab1|Media|2025-08-04
+PR003|T007|Documentacion|Escribir casos de uso|Pendiente|colab2|Baja|2025-08-03
