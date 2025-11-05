@@ -1,0 +1,20 @@
+John Doe:5.2:6.0:7
+Yuki Tanaka:3.5:3.8:5
+Alessandro Rossi:4.8:4.5:8
+Priya Patel:3.2:5.5:4
+Mohammed Al-Rashid:6.0:4.2:9
+Emma Schmidt:2.8:3.5:3
+Javier Hernández:5.5:6.5:10
+Amélie Dubois:4.0:3.9:6
+Chen Wei:3.0:5.0:5
+Sophia Kowalski:5.8:5.2:7
+Ivan Petrov:2.5:2.8:2
+Fatima Ibrahim:6.5:6.8:9
+Rajesh Kumar:4.2:4.0:7
+Anastasia Volkov:3.8:3.2:4
+Lucas Da Silva:5.0:5.5:8
+Aisha Okonkwo:4.5:4.8:6
+Noah Johnson:3.6:5.9:7
+Mei Lin Zhang:5.9:6.2:9
+Santiago Morales:2.9:3.1:3
+Olivia Anderson:6.2:5.8:8
