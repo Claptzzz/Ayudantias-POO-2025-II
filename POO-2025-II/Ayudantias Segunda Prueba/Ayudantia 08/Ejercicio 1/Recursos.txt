@@ -1,0 +1,15 @@
+1;Tronco de Roble;MADERA;50;VERDE;2
+2;Madera de Cedro;MADERA;75;AMARILLA;3
+3;Madera Ancestral;MADERA;120;ROJA;5
+4;Mineral de Hierro;MINERAL;60;VERDE;2
+5;Mineral de Titanio;MINERAL;85;AMARILLA;3
+6;Mineral de Tungsteno;MINERAL;130;ROJA;5
+7;Fibra de Lino;FIBRA;45;VERDE;2
+8;Fibra de Cáñamo;FIBRA;70;AMARILLA;3
+9;Fibra Encantada;FIBRA;110;ROJA;5
+10;Cuero Curtido;CUERO;55;VERDE;2
+11;Cuero Resistente;CUERO;80;AMARILLA;3
+12;Cuero de Dragón;CUERO;125;ROJA;5
+13;Bloque de Granito;PIEDRA;52;VERDE;2
+14;Mármol Pulido;PIEDRA;78;AMARILLA;3
+15;Roca Volcánica;PIEDRA;115;ROJA;5
