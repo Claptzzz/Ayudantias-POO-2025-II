@@ -1,0 +1,30 @@
+12345678-9;Juan Pérez;Ingeniería Informática;3;5.5
+87654321-0;María González;Psicología;2;6.2
+11223344-5;Carlos López;Administración;4;4.8
+55667788-1;Ana Torres;Derecho;1;6.8
+99887766-2;Pedro Ramírez;Medicina;5;5.9
+22334455-6;Sofía Martínez;Arquitectura;3;4.5
+33445566-7;Diego Silva;Ingeniería Civil;6;5.2
+44556677-8;Valentina Rojas;Enfermería;2;6.5
+66778899-3;Mateo Flores;Contador Auditor;4;4.9
+77889900-4;Isidora Muñoz;Pedagogía;1;5.6
+88990011-5;Benjamín Castro;Ingeniería Comercial;3;4.2
+99001122-6;Martina Vega;Kinesiología;2;6.7
+10111213-7;Lucas Herrera;Veterinaria;5;5.1
+20212223-8;Emilia Soto;Diseño Gráfico;1;6.9
+30313233-9;Sebastián Núñez;Ingeniería Eléctrica;4;4.4
+40414243-0;Florencia Díaz;Biología;3;6.1
+50515253-1;Agustín Morales;Química y Farmacia;6;5.8
+60616263-2;Catalina Vargas;Trabajo Social;2;5.3
+70717273-3;Tomás Guzmán;Ingeniería Mecánica;5;4.7
+80818283-4;Javiera Pinto;Periodismo;1;6.4
+90919293-5;Felipe Castillo;Odontología;4;5.4
+11121314-6;Amanda Reyes;Nutrición;2;6.0
+21222324-7;Nicolás Sepúlveda;Agronomía;3;4.1
+31323334-8;Constanza Fuentes;Fonoaudiología;1;6.6
+41424344-9;Maximiliano Bravo;Geología;5;5.7
+51525354-0;Isabella Campos;Sociología;2;6.3
+61626364-1;Joaquín Cortés;Ingeniería Industrial;4;4.6
+71727374-2;Antonia Medina;Astronomía;3;6.8
+81828384-3;Cristóbal Jiménez;Ingeniería Ambiental;6;5.0
+91929394-4;Fernanda Ortiz;Derecho;2;7.0
