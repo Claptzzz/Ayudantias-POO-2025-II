@@ -1,0 +1,4 @@
+Kkoma;T1;15
+Grabbz;G2 Esports;8
+Yamato;Fnatic;6
+Reapered;Cloud9;10

@@ -1,0 +1,5 @@
+T001;Spring Split 2024;ACTIVO;Summoner's Rift;BO3
+T002;MSI 2024;FINALIZADO;Summoner's Rift;BO5
+T003;Worlds 2024;PROXIMO;Summoner's Rift;BO5
+T004;Rift Rivals;ACTIVO;Summoner's Rift;BO1
+T005;All-Stars;PROXIMO;Howling Abyss;BO3
