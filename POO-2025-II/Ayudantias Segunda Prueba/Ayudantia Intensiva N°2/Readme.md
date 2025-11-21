@@ -209,7 +209,7 @@ Usar `JTabbedPane` con 4 pestañas:
   - Conteo de jugadores totales
 
 #### **2. Pestaña Equipos**
-- **JTable** mostrando: Nombre, Cantidad Jugadores, Torneos Jugados
+- **JTable** mostrando: Nombre, Nombre Entrenador, Experiencia Entrenador, Cantidad Jugadores, Torneos Jugados
 - **JTextField** para búsqueda por nombre (filtro en tiempo real)
 - **JButton "Ver Roster"**: Abre diálogo mostrando:
   - Los 5 jugadores del equipo (tabla con todas sus stats)
