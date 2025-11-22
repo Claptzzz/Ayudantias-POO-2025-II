@@ -284,3 +284,9 @@ public class Sistema {
 - Se selecciona una estrategia desde la GUI
 - Se aplica sobre el ArrayList de jugadores: `estrategia.ordenar(jugadores)`
 - La tabla se actualiza para reflejar el nuevo orden
+
+---
+
+- **Link a Videos:**  
+  [Ver carpeta de videos](https://drive.google.com/drive/folders/1oVZZu9ZXrJPhl7pwLtQ3EIQwDp2_sa4q?usp=sharing)
+
