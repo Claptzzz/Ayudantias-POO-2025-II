@@ -1,0 +1,10 @@
+12345678-9;Juan Carlos Pérez López;Ingeniería en Tecnologías de la Información;5;juan.perez@alumnos.ucn.cl;contraseña123
+98765432-1;María José González Silva;Ingeniería Civil en Computación e Informática;6;maria.gonzalez@alumnos.ucn.cl;mipassword456
+11223344-5;Carlos Antonio Rodríguez Muñoz;Ingeniería en Tecnologías de la Información;4;carlos.rodriguez@alumnos.ucn.cl;carlos789
+22334455-6;Ana Beatriz Sánchez Torres;Ingeniería Civil en Computación e Informática;7;ana.sanchez@alumnos.ucn.cl;anabeatriz321
+33445566-7;Luis Fernando Martínez Castro;Ingeniería en Tecnologías de la Información;3;luis.martinez@alumnos.ucn.cl;luisfernando654
+44556677-8;Patricia Elena Vásquez Ramos;Ingeniería en Tecnologías de la Información;5;patricia.vasquez@alumnos.ucn.cl;patricia987
+55667788-9;Roberto Miguel Herrera Díaz;Ingeniería Civil en Computación e Informática;8;roberto.herrera@alumnos.ucn.cl;roberto111
+66778899-0;Sofía Alejandra Morales Jiménez;Ingeniería en Tecnologías de la Información;2;sofia.morales@alumnos.ucn.cl;sofia222
+77889900-1;Diego Andrés Castillo Vargas;Ingeniería Civil en Computación e Informática;6;diego.castillo@alumnos.ucn.cl;diego333
+88990011-2;Camila Fernanda Torres León;Ingeniería en Tecnologías de la Información;4;camila.torres@alumnos.ucn.cl;camila444

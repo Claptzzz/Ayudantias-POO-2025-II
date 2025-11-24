@@ -1,0 +1,5 @@
+admin;admin123;Admin
+coord.is;coord123;Coordinador;Sistemas Inteligentes
+coord.cyber;cyber456;Coordinador;Ciberseguridad
+coord.sw;software789;Coordinador;Desarrollo de Software
+sysadmin;sysadmin2024;Admin

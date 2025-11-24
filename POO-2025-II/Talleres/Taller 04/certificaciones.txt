@@ -1,0 +1,3 @@
+CERT-001;Sistemas Inteligentes;Especialización en inteligencia artificial, aprendizaje automático, redes neuronales y procesamiento de datos. Prepara a los estudiantes para desarrollar soluciones inteligentes y sistemas autónomos.;82;3
+CERT-002;Ciberseguridad;Especialización en seguridad informática, criptografía, hacking ético y análisis forense digital. Forma profesionales capaces de proteger sistemas y detectar vulnerabilidades.;82;3
+CERT-003;Desarrollo de Software;Especialización en arquitectura de software, metodologías ágiles, DevOps y desarrollo full-stack. Capacita a los estudiantes para liderar proyectos de desarrollo tecnológico.;82;3

@@ -1,0 +1,59 @@
+DCCB-00141;Cálculo I;1;6;General
+DCCB-00142;Álgebra I;1;6;General
+DCCB-00144;Física I;1;6;General
+DCTE-00000;Identidad, Universidad y Región;1;2;General
+ECIN-00115;Proyecto Integral de Ingeniería;1;5;General
+SSED-01184;Español I;1;4;General
+SSED-08200;Curso Integral de Colocación Universitaria;1;2;General
+DCCB-00244;Física II;2;6;General;DCCB-00144
+DCCB-00245;Cálculo II;2;6;General;DCCB-00141
+DCCB-00246;Álgebra II;2;6;General;DCCB-00142
+SSED-00102;Comunicación Efectiva;2;5;General
+SSED-02184;Español II;2;4;General;SSED-01184
+DCTE-00002;Diálogo, Fe y Cultura;2;2;General;DCTE-00000
+ECIN-00361;Programación Orientada a Objetos;2;5;Desarrollo de Software;DCCB-00245
+ECIN-00360;Programación Avanzada;3;6;Desarrollo de Software;ECIN-00361
+ECIN-00362;Estadística;3;6;General;DCCB-00245
+ECIN-00363;Ingeniería Eléctrica;3;5;General;DCCB-00244,DCCB-00246
+DCTE-00004;Teología, Fe y Ciencia;4;2;General;DCTE-00002
+ECIN-00416;Estructuras de Datos;4;5;Desarrollo de Software;ECIN-00361
+ECIN-00460;Sistemas Digitales;4;6;Sistemas Inteligentes;ECIN-00363
+ECIN-00462;Ciencia de Datos;4;5;Sistemas Inteligentes;ECIN-00362
+ECIN-00464;Arquitectura y Organización de Computadores;4;5;General;ECIN-00460
+SSED-02020;Comunicación Efectiva II;4;2;General;SSED-00102
+MINOR-00055;Patrones y Marcos de Software;5;5;Desarrollo de Software;ECIN-00416
+MINOR-00056;Bases de Datos No Relacionales;5;5;Desarrollo de Software;ECIN-00462
+ECIN-00561;Ingeniería de Software;5;5;Desarrollo de Software;ECIN-00416
+ECIN-00562;Bases de Datos;5;5;General;ECIN-00416
+ECIN-00563;Creatividad y Digital Innovación;5;5;General
+ECIN-00564;Redes de Computadoras I;5;5;Ciberseguridad;ECIN-00464
+MINOR-00057;Introducción a DevOps;6;5;Desarrollo de Software;ECIN-00561
+MINOR-00058;Computación en la Nube;6;5;Desarrollo de Software;MINOR-00056
+DCTE-00005;Ética Profesional;6;2;General;DCTE-00004
+ECIN-00660;Desarrollo Ágil;6;5;Desarrollo de Software;ECIN-00561
+ECIN-00661;Sistemas de Información;6;5;General;ECIN-00562
+ECIN-00662;Tecnología de Desarrollo de Soluciones;6;5;General;ECIN-00563
+ECIN-00663;Redes de Computadoras II;6;5;Ciberseguridad;ECIN-00564
+ECIN-00664;Ingeniería de Datos y Big Data;6;5;Sistemas Inteligentes;ECIN-00562
+IA-00001;Fundamentos de Inteligencia Artificial;6;6;Sistemas Inteligentes;ECIN-00416,ECIN-00362
+CYB-00001;Informática de Seguridad;6;6;Ciberseguridad;ECIN-00564
+SW-00001;Arquitectura de Software Avanzada;6;6;Desarrollo de Software;ECIN-00561
+ECIN-01000;Emprendimiento Tecnológico;7;5;General
+ECIN-00705;Gestión de Proyectos;7;5;Desarrollo de Software;ECIN-00660
+ECIN-00760;Proyecto Final;7;5;General
+ECIN-00761;Emprendimiento;7;5;General;ECIN-01000
+ECIN-00762;Ingeniería de Datos y Big Data II;7;5;Sistemas Inteligentes;ECIN-00664
+ECIN-00763;Práctica Profesional;7;12;General
+IA-00002;Aprendizaje Automático;7;6;Sistemas Inteligentes;IA-00001
+IA-00003;Redes Neuronales;7;5;Sistemas Inteligentes;IA-00002
+CYB-00002;Criptografía;7;5;Ciberseguridad;CYB-00001
+CYB-00003;Hacking Ético;7;6;Ciberseguridad;CYB-00001
+SW-00002;DevOps Avanzado;7;5;Desarrollo de Software;MINOR-00057
+SW-00003;Desarrollo Web Full-Stack;7;6;Desarrollo de Software;SW-00001
+ECIN-00764;Redes de Computadores II;8;5;Ciberseguridad;ECIN-00663
+IA-00004;Procesamiento del Lenguaje Natural;8;5;Sistemas Inteligentes;IA-00002
+IA-00005;Visión Artificial;8;5;Sistemas Inteligentes;IA-00003
+CYB-00004;Análisis Forense Digital;8;5;Ciberseguridad;CYB-00002
+CYB-00005;Malware Análisis;8;5;Ciberseguridad;CYB-00003
+SW-00004;Microservicios;8;5;Desarrollo de Software;SW-00001
+SW-00005;Pruebas y Control de Calidad;8;5;Desarrollo de Software;SW-00003
